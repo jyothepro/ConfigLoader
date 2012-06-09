@@ -1,0 +1,6 @@
+This is an iPhone App that loads config through a HTTP request from a web server
+
+Web server returns a json object exmaple:
+{"background":"black","text":"Test String"}
+
+
